@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Sola\Diploma\RTG-u4\Assets\Resources\Scripts\perlinNoise.cs">
+    <Files>
+      <File FileName="..\Sola\Diploma\RTG-u4\Assets\Resources\Scripts\perlinNoise.cs" Line="169" Column="57" />
+      <File FileName="..\Sola\Diploma\RTG-u4\Assets\Resources\Scripts\main.cs" Line="12" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
